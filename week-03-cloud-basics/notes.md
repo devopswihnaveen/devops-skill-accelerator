@@ -53,7 +53,6 @@ Verify installation:
 ```
 docker --version
 docker info
-
 ```
 
 ## 🛠️ Essential Docker Commands
@@ -86,8 +85,7 @@ Example:
 ```
 FROM nginx
 COPY index.html /usr/share/nginx/html
-
----
+```
 
 ## 🧪 Hands-On Tasks
 
