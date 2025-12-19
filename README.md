@@ -4,9 +4,9 @@ Welcome to my DevOps learning journey 👋
 This repository tracks my **hands-on progress** in Cloud & DevOps.
 
 ## 👤 About Me
-- Name:
-- Background:
-- Goal: Become a DevOps Engineer
+- Name: V Naveen Kumar
+- Background: Devops Engineer
+- Goal: Become a DevOps Evangelist
 
 ## 📌 Learning Roadmap
 - Week 01: Linux & Git Fundamentals
