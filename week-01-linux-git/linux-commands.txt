@@ -1,0 +1,6 @@
+pwd - print working directory
+ls - list files
+cd - change directory
+mkdir - create directory
+touch - create file
+rm - delete file
