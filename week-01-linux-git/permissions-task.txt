@@ -1,0 +1,11 @@
+Task: Linux File Permissions
+
+- Read (r)
+- Write (w)
+- Execute (x)
+
+chmod controls permissions
+chown controls ownership
+
+Example:
+chmod 700 file.txt
