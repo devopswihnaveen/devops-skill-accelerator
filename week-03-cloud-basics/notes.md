@@ -54,7 +54,7 @@ Verify installation:
 docker --version
 docker info
 
----
+```
 
 ## 🛠️ Essential Docker Commands
 - `docker version`
